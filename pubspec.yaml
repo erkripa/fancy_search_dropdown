@@ -1,0 +1,22 @@
+name: fancy_search_dropdown
+description: The `fancy_search_dropdown` package is a customizable Flutter widget that provides an elegant and efficient way to display a dropdown menu with search functionality. This widget is designed to enhance the user experience by offering dynamic suggestions as the user types, making it easy to search and select options from a predefined list.
+
+version: 0.0.1
+homepage: https://github.com/yourusername/fancy_search_dropdown
+license: MIT
+
+environment:
+  sdk: ">=3.4.4 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  # You can add assets and fonts here if needed
